@@ -1,4 +1,4 @@
-d3.csv(".LivingAreaPerCapitaOfChina.csv").then(function(data) {
+d3.csv("LivingAreaPerCapitaOfChina.csv").then(function(data) {
     
 
     
